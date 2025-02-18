@@ -1,0 +1,89 @@
+/* App.css */
+
+/* Center everything on the page */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0; /* Light gray background */
+  font-family: Arial, sans-serif;
+}
+
+/* Container for the main content */
+.container {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 70px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the button with className="otherButton1" */
+.otherButton1 {
+  background-color: #4caf50; /* Green */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.otherButton1:hover {
+  background-color: #45a049; /* Darker green */
+}
+
+/* Style for the button with id="otherButton2" */
+#otherButton2 {
+  background-color: #f44336; /* Red */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+#otherButton2:hover {
+  background-color: #d32f2f; /* Darker red */
+}
+
+/* Style for the button with id="otherButton3" */
+#otherButton3 {
+  background-color: #008cba; /* Blue */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+#otherButton3:hover {
+  background-color: #007bb5; /* Darker blue */
+}
+
+/* Style for the button with id="submit" */
+#submit {
+  background-color: #ff9800; /* Orange */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+#submit:hover {
+  background-color: #e68900; /* Darker orange */
+}
+
+/* General styles */
+h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
