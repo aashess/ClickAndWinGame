@@ -1,28 +1,29 @@
-## Click and Win Game 🎮
+# Click and Win Game 🎮
 
 Welcome to the Click and Win Game! This is a simple yet engaging React-based game where users click buttons to increase or decrease a counter and try to match a randomly generated number to win.
 
 ## Table of Contents
 
-# Features
+### Features
 
-# How to Play
+### How to Play
 
-Installation
+### Installation
 
-Project Structure
+### Project Structure
 
-Technologies Used
+### Technologies Used
 
-Contributing
+### Contributing
 
-License
 
-Features ✨
-1. Interactive Gameplay
+
+## Features ✨
+
+### 1. Interactive Gameplay
 Users can click buttons to:
 
-Increase the counter.
+### Increase the counter.
 
 Decrease the counter.
 
