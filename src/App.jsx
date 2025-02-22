@@ -21,7 +21,7 @@ function Main_func({ count, randomValue, setCount, setRandomValue }) {
 
   return (
     <div className="container">
-      <h2>User Clicked: {count}</h2>
+      <h2> handle click: {count}</h2>
 
       <button className="otherButton1" onClick={() => setCount(count + 1)}>
         Next
